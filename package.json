@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-audio-background-mode",
+  "version": "0.0.1",
+  "description": "The app is able to run in background through audio mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongwd/cordova-plugin-audio-background-mode.git"
+  },
+  "author": "PhuongTo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongwd/cordova-plugin-audio-background-mode/issues"
+  },
+  "homepage": "https://github.com/phuongwd/cordova-plugin-audio-background-mode#readme"
+}
