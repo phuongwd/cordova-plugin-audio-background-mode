@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-audio-background-modes"
-        version="0.0.1">
+        id="cordova-plugin-audio-background-mode"
+        version="0.0.2">
 
-    <name>Cordova/PhoneGap plugin for enabling audio background modes.</name>
-    <description>Cordova/PhoneGap plugin for enabling audio background modes</description>
+    <name>Cordova/PhoneGap plugin for enabling audio background mode.</name>
+    <description>Cordova/PhoneGap plugin for enabling audio background mode</description>
     <license>Apache 2.0 License</license>
     <platform name="ios">
         <!-- The app is able to run in background through audio mode -->

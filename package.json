@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-audio-background-mode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The app is able to run in background through audio mode",
   "main": "index.js",
   "scripts": {
