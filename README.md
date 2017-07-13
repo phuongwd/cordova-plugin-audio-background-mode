@@ -6,8 +6,8 @@ for iOS, by [Phuong To](https://github.com/phuongwd)
 
 1. [Description](https://github.com/phuongwd/cordova-plugin-audio-background-mode#1-description)
 2. [Installation](https://github.com/phuongwd/cordova-plugin-audio-background-mode#2-installation)
-    2. [Automatically](https://github.com/phuongwd/cordova-plugin-audio-background-mode#automatically)
-    2. [Manually](https://github.com/phuongwd/cordova-plugin-audio-background-mode#manually)
+    2.1 [Automatically](https://github.com/phuongwd/cordova-plugin-audio-background-mode#automatically)
+    2.2 [Manually](https://github.com/phuongwd/cordova-plugin-audio-background-mode#manually)
 3. [License](https://github.com/phuongwd/cordova-plugin-audio-background-mode#4-license)
 
 ## 1. Description
